@@ -12,10 +12,21 @@ From Zero Repo for doing python devOps work
 * This is an example of how to use [colab](https://github.com/127-0-0-vvk/python-for-devops/blob/main/getting_started_python.ipynb)
 
 ### Github codespaces
+
+Build out python project scaffold:
+
+* Makefile
+* requirements.txt
+* test_library.py
+* python_library
+* Dockerfile
+* command-line-tool
+* Microservice
+
 ### AWS cloudshell 
 ### AWS Cloud9. 
 
-## command-line tools
+## Command-line tools
 
 ## Microservices
 
