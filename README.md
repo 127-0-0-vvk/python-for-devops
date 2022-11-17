@@ -19,7 +19,7 @@ Build out python project scaffold:
 
 * [Makefile](https://github.com/127-0-0-vvk/python-for-devops/blob/main/Makefile)
 * [requirements.txt](https://github.com/127-0-0-vvk/python-for-devops/blob/main/requirements.txt)
-* test_library.py
+* [test_library.py](https://github.com/127-0-0-vvk/python-for-devops/blob/main/test_devopslib.py)
 * python_library
 * Dockerfile
 * command-line-tool
