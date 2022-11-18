@@ -1,5 +1,8 @@
 [![Test Multiple Python Versions](https://github.com/127-0-0-vvk/python-for-devops/actions/workflows/main.yml/badge.svg)](https://github.com/127-0-0-vvk/python-for-devops/actions/workflows/main.yml)
 
+
+[![AWS Code build]https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoidDZQYnRZQTN1Yis2alFuZ04xTU9yU0lvRmNpN3FwMVlFeXlxMGk5cG15L3RLVFkvc2d3bjZUalZMQzlIN1hqL0UwZEhQU0N3cHZ6dFNLK2NKbEw2cDRzPSIsIml2UGFyYW1ldGVyU3BlYyI6IjJNUVo1YzUxNjF1WlVpTXkiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main
+
 # python-for-devops
 From Zero Repo for doing python devOps work
 
@@ -43,4 +46,4 @@ Build out python project scaffold:
 
 ## Containerized continous delivery
 
-`docker run -p 127.0.0.1:8080:8080 102cbf6e9a4e`
+`docker run -p 127.0.0.1:8080:8080 102cbf6e9a4e
